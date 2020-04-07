@@ -4,4 +4,4 @@ So as not to have the repetition as we did in ```advance_state(self, dt)``` as w
 Now, we merely need to update the state vector, rather than individual states.
 
 ** Correct Order Of Equation In Notebook
-![compact_states](compact_state_changes.png)
+![compact_states](/images/compact_state_changes.png)
